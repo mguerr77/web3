@@ -2,4 +2,4 @@ hola de nuevo
 que tal
 bien y tu
 modificado en ramaB
-nueva modificación
+algo nuevo
